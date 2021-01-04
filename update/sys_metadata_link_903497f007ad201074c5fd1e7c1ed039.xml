@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>688d7e3ec7b1330034d1f8d07a9763dc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-06 17:28:26</sys_created_on>
+        <sys_id>688d7e3ec7b1330034d1f8d07a9763dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.contract_manager</sys_name>
+        <sys_package display_value="Service Level Management - Contract Management Integration" source="com.snc.sla.contract2">fb19f704c9a7101091f9f06464832773</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="contract_rel_contract_sla.*">2c8d7e3ec7b1330034d1f8d07a9763db</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_688d7e3ec7b1330034d1f8d07a9763dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-06 17:28:26</sys_updated_on>
+        <sys_user_role display_value="contract_manager" name="contract_manager">f37e91e11b302000aebbfbcd2c07139f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-04 16:17:28</sys_created_on>
+        <sys_id>903497f007ad201074c5fd1e7c1ed039</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.contract_manager</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_903497f007ad201074c5fd1e7c1ed039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-04 16:17:28</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

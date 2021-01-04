@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>76a85f630b70030036e62c7885673a5e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-31 21:47:06</sys_created_on>
+        <sys_id>76a85f630b70030036e62c7885673a5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_templated_snip_note_template.sn_templated_snip.template_snippet_writer</sys_name>
+        <sys_package display_value="Templated Snippets" source="sn_templated_snip">2d3597c80b67320036e62c7885673a43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Templated Snippets">2d3597c80b67320036e62c7885673a43</sys_scope>
+        <sys_security_acl display_value="sn_templated_snip_note_template">3fe7d6430b63320036e62c7885673aa6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_76a85f630b70030036e62c7885673a5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 21:47:06</sys_updated_on>
+        <sys_user_role display_value="sn_templated_snip.template_snippet_writer" name="sn_templated_snip.template_snippet_writer">8ae5d7230b70030036e62c7885673afe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-04 16:19:17</sys_created_on>
+        <sys_id>4394973407ad201074c5fd1e7c1ed019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_templated_snip_note_template.sn_templated_snip.template_snippet_writer</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_4394973407ad201074c5fd1e7c1ed019</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-04 16:19:17</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>78b0e9eac7a0030089413952f09763fc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-16 00:12:39</sys_created_on>
+        <sys_id>78b0e9eac7a0030089413952f09763fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.nobody</sys_name>
+        <sys_package display_value="App Dependency Client" source="sn_dependentclient">f1d83d71c700030089413952f0976370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Dependency Client">f1d83d71c700030089413952f0976370</sys_scope>
+        <sys_security_acl display_value="sn_dependentclient_application">2cb02deac7a0030089413952f09763a3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_78b0e9eac7a0030089413952f09763fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-16 00:12:39</sys_updated_on>
+        <sys_user_role display_value="nobody" name="nobody">b05940500a0a0aa70090a4893f6ff35d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-04 16:17:29</sys_created_on>
+        <sys_id>643497f007ad201074c5fd1e7c1ed046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.nobody</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_643497f007ad201074c5fd1e7c1ed046</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-04 16:17:29</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

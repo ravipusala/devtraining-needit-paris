@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>21a423a70f1010101d6d6bfaa8767eb2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>service.now</sys_created_by>
+        <sys_created_on>2020-04-27 07:04:43</sys_created_on>
+        <sys_id>21a423a70f1010101d6d6bfaa8767eb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.itil</sys_name>
+        <sys_package display_value="On-Call Scheduling" source="com.snc.on_call_rotation">8c69f3c4c9a7101091f9f064648327ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="on_call_user_preference">19a423a70f1010101d6d6bfaa8767ead</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_21a423a70f1010101d6d6bfaa8767eb2</sys_update_name>
+        <sys_updated_by>service.now</sys_updated_by>
+        <sys_updated_on>2020-04-27 07:04:43</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-04 16:16:09</sys_created_on>
+        <sys_id>41e31bb007ad201074c5fd1e7c1ed0bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.itil</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_41e31bb007ad201074c5fd1e7c1ed0bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-04 16:16:09</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>
